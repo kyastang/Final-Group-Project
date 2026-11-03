@@ -1,3 +1,10 @@
+from ColabTurtlePlus.Turtle import *
+import numpy as np
+
+from TileFunctions import *
+from ColorPalettes import *
+
+
 def generate_poster():
 
 name_text = input("Enter your name: ")
