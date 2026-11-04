@@ -1,5 +1,5 @@
 # Final-Group-Project
-Created by: [Sasha], [Shuwen], [Kyle]
+Created by: Sasha, Shuwen, Kyle
 Course: Creative Coding, Pratt Institute
 Semester: Fall 2026
 
@@ -15,8 +15,8 @@ Semester: Fall 2026
 Copy this code into a Colab Notebook.
 
 ```
-!git clone https://github.com/sarahchase/cc-f26-group-project.git
-%cd cc-f26-group-project
+!git clone https://github.com/kyastang/Final-Group-Project
+%cd Final-Group-Project
 !pip install -r requirements.txt
 from project import generate_poster
 generate_poster()
