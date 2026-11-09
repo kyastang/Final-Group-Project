@@ -7,9 +7,9 @@ Semester: Fall 2026
 [Write a short description of your project. What was the idea behind your poster generator? What visual qualities or design ideas inspired it? How does the program combine everyone's individual tile designs into a unified composition?
 
 # Meet the Designers
-[Sasha]: [Brief description of their tile designs or contribution.]
-[Shuwen]: [Brief description of their tile designs or contribution.]
-[Kyle]: [Brief description of their tile designs or contribution.]
+Sasha: Brief description of their tile designs or contribution.
+Shuwen: Floral and simple designs with a soft pastel color palette 
+Kyle: Brief description of their tile designs or contribution.
 
 # Try it yourself
 Copy this code into a Colab Notebook.
