@@ -4,7 +4,7 @@ Course: Creative Coding, Pratt Institute
 Semester: Fall 2026
 
 # About the Project
-[Write a short description of your project. What was the idea behind your poster generator? What visual qualities or design ideas inspired it? How does the program combine everyone's individual tile designs into a unified composition?
+This project allows users to generate a poster from a three differently designed collections of tiles.  What was the idea behind your poster generator? What visual qualities or design ideas inspired it? How does the program combine everyone's individual tile designs into a unified composition?
 
 # Meet the Designers
 Sasha: Brief description of their tile designs or contribution.
@@ -21,3 +21,15 @@ Copy this code into a Colab Notebook.
 from project import generate_poster
 generate_poster()
 ```
+# How to Use
+Open the notebook in Google Colab.
+Run the setup cells to download the project code and install the required libraries.
+Run the cell that calls the function and prompts the user to choose a title, grid dimensions, and color palette.
+Your own poster will be saved as poster.svg!
+
+# Files
+project.py – Main poster-generation program.
+TileFunctions.py – Collection of custom tile-drawing functions.
+PaletteOptions.py – Available color palettes.
+requirements.txt – Required Python libraries.
+example_poster.svg – Scalable vector version of an example final poster image.
