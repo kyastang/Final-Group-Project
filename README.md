@@ -35,7 +35,7 @@ Your own poster will be saved as poster.svg!
 - `project.py` – Main poster-generation program.
 - `TileFunctions.py` – Collection of custom tile-drawing functions.
 - `ColorPalettes.py` – Available color palettes.
-- `Requirements.txt` – Required Python libraries.
+- `requirements.txt` – Required Python libraries.
 - `Example.png` – Scalable vector version of an example final poster image.
 
 # How the code works 
