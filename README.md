@@ -4,7 +4,7 @@ Course: Creative Coding, Pratt Institute
 Semester: Fall 2026
 
 # About the Project
-This project allows users to generate a poster from a three differently designed collections of tiles.  What was the idea behind your poster generator? What visual qualities or design ideas inspired it? How does the program combine everyone's individual tile designs into a unified composition?
+This project allows users to generate a poster based on three collections of a differently designed tiles. It prompts the user for canvas size and color theme, randomly creates a design, and then renders the poster along with a gallery plaque that includes the user's name and different color swatches. Most of the tiles have patterns. The program combines everyone's individual tile designs into a unified composition through a function that randomly calls corner tiles, border tiles, center tiles.
 
 # Meet the Designers
 Sasha: Brief description of their tile designs or contribution.
