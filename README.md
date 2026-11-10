@@ -18,8 +18,8 @@ Kyle: Brief description of their tile designs or contribution.
 Copy this code into a Colab Notebook.
 
 ```python
-!git clone https://github.com/kyastang/final-group-project.git
-%cd final-group-project
+!git clone https://github.com/kyastang/Final-Group-Project.git
+%cd Final-Group-Project
 !pip install -r requirements.txt
 from project import generate_poster
 generate_poster()
