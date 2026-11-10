@@ -151,4 +151,4 @@ for v in palette.values():
 
 t.hideturtle()
 t.done()
-  saveSVG("/content/poster.svg")
+saveSVG("/content/poster.svg")
