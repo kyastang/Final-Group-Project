@@ -17,7 +17,7 @@ Kyle: Brief description of their tile designs or contribution.
 # Try it yourself
 Copy this code into a Colab Notebook.
 
-```
+```python
 !git clone https://github.com/kyastang/Final-Group-Project
 %cd Final-Group-Project
 !pip install -r requirements.txt
