@@ -3,7 +3,8 @@ Created by: Sasha, Shuwen, Kyle
 Course: Creative Coding, Pratt Institute
 Semester: Fall 2026
 
-![Example final poster](example.png)
+<img width="1122" height="560" alt="Example" src="https://github.com/user-attachments/assets/27e6c2ef-0f64-476f-b066-3c8f458f0a25" />
+
 
 # About the Project
 This project allows users to generate a poster based on three collections of a differently designed tiles. It prompts the user for canvas size and color theme, randomly creates a design, and then renders the poster along with a gallery plaque that includes the user's name and different color swatches. Most of the tiles have patterns. The program combines everyone's individual tile designs into a unified composition through a function that randomly calls corner tiles, border tiles, center tiles.
