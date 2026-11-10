@@ -9,7 +9,7 @@ Semester: Fall 2026
 This project allows users to generate a poster based on three collections of a differently designed tiles. It prompts the user for canvas size and color theme, randomly creates a design, and then renders the poster along with a gallery plaque that includes the user's name and different color swatches. Most of the tiles have patterns. The program combines everyone's individual tile designs into a unified composition through a function that randomly calls corner tiles, border tiles, center tiles.
 
 # Meet the Designers
-Sasha: Brief description of their tile designs or contribution.
+Sasha: Playful circular designs with bright colors
 Shuwen: Floral and simple designs with a soft pastel color palette 
 Kyle: Brief description of their tile designs or contribution.
 
