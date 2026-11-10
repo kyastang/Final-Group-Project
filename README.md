@@ -28,8 +28,10 @@ Run the cell that calls the function and prompts the user to choose a title, gri
 Your own poster will be saved as poster.svg!
 
 # Files
-project.py – Main poster-generation program.
-TileFunctions.py – Collection of custom tile-drawing functions.
-PaletteOptions.py – Available color palettes.
-requirements.txt – Required Python libraries.
-example_poster.svg – Scalable vector version of an example final poster image.
+
+- `project.py` – Main poster-generation program.
+- `TileFunctions.py` – Collection of custom tile-drawing functions.
+- `ColorPalettes.py` – Available color palettes.
+- `Requirements.txt` – Required Python libraries.
+- `Example.png` – Scalable vector version of an example final poster image.
+
