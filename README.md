@@ -37,3 +37,9 @@ Your own poster will be saved as poster.svg!
 - `Requirements.txt` – Required Python libraries.
 - `Example.png` – Scalable vector version of an example final poster image.
 
+# How the code works 
+We first started off by creating a 3 tile designs each for the border, corner, and center tiles. We put this information together as a collection of tile functions. We created functions for each person, with conditional geometry based on the type of tile.  Then, we each made a color palette with 4 different colors, and compiled this information as well. We defined each palette as a variable and then put them in a list.
+
+Next, we get information for the poster. We first ask the user for a name, title, height/width, and palette, and confirm that their entries are valid. If the user selected random for the color palette, we generate the palette using random numbers.
+
+After that, we start to generate the poster. We randomly choose which persons tile to draw and then start to draw, starting from the top left to the top right, then going from the bottom left to bottom right. While doing this, we also define the palette, correct rotation, and type of tile in the function. Next, we write the title, credits, and palette swatch colors, and rgb values at the bottom. Finally, we hide turtle, and then we're done!
