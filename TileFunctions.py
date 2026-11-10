@@ -658,4 +658,5 @@ def draw_kyle_tile(t, x, y, size, rotation, palette, tile_type="center"):
   t.setheading(0)
   t.pencolor((0, 0, 0))
 
+# This line at the end makes a list with everyone's functions
 tile_functions = [draw_sasha_tile, draw_shuwen_tile, draw_kyle_tile]
