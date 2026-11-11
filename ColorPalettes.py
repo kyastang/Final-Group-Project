@@ -1,12 +1,5 @@
 palette_options = {}
 
-random = {
-    "bg": (np.random.randint(256), np.random.randint(256), np.random.randint(256)),
-    "primary": (np.random.randint(256), np.random.randint(256), np.random.randint(256)),
-    "secondary": (np.random.randint(256), np.random.randint(256), np.random.randint(256)),
-    "accent": (np.random.randint(256), np.random.randint(256), np.random.randint(256)),
-}
-
 # Color palette for person 1 here
 sasha_palette = {
         "bg": (167, 196, 194),
