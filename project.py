@@ -29,7 +29,12 @@ def generate_poster():
   
   if p_name == "random":
     print("Now generating a random color palette...")
-    palette = random
+    palette = {
+    "bg": (np.random.randint(256), np.random.randint(256), np.random.randint(256)),
+    "primary": (np.random.randint(256), np.random.randint(256), np.random.randint(256)),
+    "secondary": (np.random.randint(256), np.random.randint(256), np.random.randint(256)),
+    "accent": (np.random.randint(256), np.random.randint(256), np.random.randint(256)),
+}
   else:
     palette = palette_options[p_name]
   
